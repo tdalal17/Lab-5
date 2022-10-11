@@ -13,6 +13,7 @@ td{
     text-align: center;
     table-layout: fixed;
     height: 60px;
+    text-decoration: underline;
     border-radius: 5px;
   }
   img{
